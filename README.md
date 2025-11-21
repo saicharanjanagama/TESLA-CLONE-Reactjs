@@ -35,7 +35,6 @@ Built with **React.js** and **Framer Motion**, it showcases responsive layouts, 
 | 🗃 State Management  | Redux Toolkit                               |
 | 💫 Animations        | Framer Motion                              |
 | 🎨 Styling          | Styled Components / CSS3                   |
-| ☁️ Deployment       | Netlify / Vercel                             |
 
 ---
 
