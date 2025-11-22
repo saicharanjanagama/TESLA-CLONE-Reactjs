@@ -14,6 +14,11 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 **View Project:** [🚗 Tesla Clone](https://tesla-clone-reactjs-sigma.vercel.app/)
+
+---
+
 ## 🧠 About the Project
 The **Tesla Clone** replicates the sleek design and immersive user experience of the official Tesla homepage.  
 Built with **React.js** and **Framer Motion**, it showcases responsive layouts, animated car sections, and elegant transitions — all optimized for top performance and interactivity.
